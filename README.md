@@ -1,7 +1,7 @@
 # Hi there, I'm David 
 
 <p align="left">
-  I'm a Software Engineer focused on DevOps and Cloud Infrastructure. Currently working on an NFC management tool called <a href="https://kitetags.com">kitetags</a> and messing around on my homelab 
+  I'm a Software Engineer focused on DevOps and Cloud Infrastructure. Currently working on an NFC management tool called <a href="https://kitetags.com">kitetags</a> and on my free time, I love messing around on my homelab 
 </p>
 
 ---
@@ -45,6 +45,7 @@ Here's a snapshot of the tools and technologies I work with regularly.
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white"></a>
     <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"></a>
+    <a href="#"><img alt="Helm" src="https://img.shields.io/badge/-Helm-091C84?&logo=helm&logoColor=white" /></a>
   </p>
 
   <b>Databases, Testing & Other Tools</b>
